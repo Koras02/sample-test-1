@@ -2,7 +2,9 @@ import logo from './logo.svg';
 import './App.css';
 
 
-console.log("commit A")
+console.log("commit A");
+console.log("commit B");
+// console.log("commit C")
 
 function App() {
   return (
